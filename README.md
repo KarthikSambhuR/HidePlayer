@@ -3,12 +3,12 @@
 More contribution helps make this plugin better than ever before.
 
 <p align="center">
-  <a href="https://pixelplayz.ga/hideplayer/source"><img src="https://pixelplayz.ga/hideplayer/github.webp"></a> |
-  <a href="https://pixelplayz.ga/hideplayer/wiki"><img src="https://pixelplayz.ga/hideplayer/wiki.webp"></a> |
-  <a href="https://pixelplayz.ga/hideplayer/discord"><img src="https://pixelplayz.ga/hideplayer/discord.webp"></a>
+  <a href="https://pixelplayzweb.pages.dev/hideplayer/source"><img src="https://github.com/KarthikSambhuR/HidePlayer/raw/refs/heads/master/images/source.webp"></a> |
+  <a href="https://pixelplayzweb.pages.dev/hideplayer/wiki"><img src="https://github.com/KarthikSambhuR/HidePlayer/raw/refs/heads/master/images/wiki.webp"></a> |
+  <a href="https://pixelplayzweb.pages.dev/hideplayer/discord"><img src="https://github.com/KarthikSambhuR/HidePlayer/raw/refs/heads/master/images/discord.webp"></a>
 </p>
 <p align="center">
-  <img src="https://pixelplayz.ga/hideplayer/description.webp">
+  <img src="https://github.com/KarthikSambhuR/HidePlayer/raw/refs/heads/master/images/description.webp">
 </p>
 <details>
   <summary><strong>Preview</strong></summary>
